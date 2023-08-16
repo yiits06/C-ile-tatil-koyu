@@ -1,0 +1,33 @@
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\bin\Debug\Tatil Köyü.exe.config
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\bin\Debug\Tatil Köyü.exe
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\bin\Debug\Tatil Köyü.pdb
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.AssemblyReference.cache
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil_Köyü.Form1.resources
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil_Köyü.Properties.Resources.resources
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.GenerateResource.cache
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.CoreCompileInputs.cache
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.exe
+C:\Users\erayy\Desktop\Kurs proje\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.pdb
+D:\Tatil Köyü\Tatil Köyü\bin\Debug\Tatil Köyü.exe.config
+D:\Tatil Köyü\Tatil Köyü\bin\Debug\Tatil Köyü.exe
+D:\Tatil Köyü\Tatil Köyü\bin\Debug\Tatil Köyü.pdb
+D:\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.AssemblyReference.cache
+D:\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.SuggestedBindingRedirects.cache
+D:\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil_Köyü.Form1.resources
+D:\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil_Köyü.Properties.Resources.resources
+D:\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.GenerateResource.cache
+D:\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.CoreCompileInputs.cache
+D:\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.exe
+D:\Tatil Köyü\Tatil Köyü\obj\Debug\Tatil Köyü.pdb
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\bin\Debug\Tatil Köyü.exe.config
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\bin\Debug\Tatil Köyü.exe
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\bin\Debug\Tatil Köyü.pdb
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.AssemblyReference.cache
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.SuggestedBindingRedirects.cache
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\obj\Debug\Tatil_Köyü.Form1.resources
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\obj\Debug\Tatil_Köyü.Properties.Resources.resources
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.GenerateResource.cache
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\obj\Debug\Tatil Köyü.csproj.CoreCompileInputs.cache
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\obj\Debug\Tatil Köyü.exe
+C:\Users\#A.D.M.İ.N#\Desktop\Tatil Köyü\obj\Debug\Tatil Köyü.pdb
